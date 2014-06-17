@@ -1,0 +1,2 @@
+add_lunch_combo mk_ace-userdebug
+add_lunch_combo mk_ace-eng
