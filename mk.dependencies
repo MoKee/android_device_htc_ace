@@ -1,0 +1,30 @@
+[
+  {
+    "repository": "android_vendor_htc_ace",
+    "target_path": "vendor/htc/ace"
+  },
+  {
+    "repository": "android_device_htc_msm7x30-common",
+    "target_path": "device/htc/msm7x30-common"
+  },
+  {
+    "repository": "android_vendor_htc_msm7x30-common",
+    "target_path": "vendor/htc/msm7x30-common"
+  },
+  {
+    "repository": "android_kernel_htc_msm7x30",
+    "target_path": "kernel/htc/msm7x30"
+  },
+  {
+    "repository": "android_hardware_qcom_display-legacy",
+    "target_path": "hardware/qcom/display-legacy"
+  },
+  {
+    "repository": "android_hardware_qcom_audio-legacy",
+    "target_path": "hardware/qcom/audio-legacy"
+  },
+  {
+    "repository": "android_hardware_qcom_media-legacy",
+    "target_path": "hardware/qcom/media-legacy"
+  }
+]
