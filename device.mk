@@ -21,8 +21,8 @@ $(call inherit-product, device/htc/msm7x30-common/msm7x30.mk)
 $(call inherit-product, device/htc/ace/media_a1026.mk)
 $(call inherit-product, device/htc/ace/media_htcaudio.mk)
 
-# Inherit qcom proprietary blobs
-$(call inherit-product, vendor/qcom/proprietary/qcom-vendor.mk)
+# Inherit msm7x30-common blobs
+$(call inherit-product, vendor/htc/msm7x30-common/msm7x30-common-vendor.mk)
 
 DEVICE_PACKAGE_OVERLAYS += device/htc/ace/overlay
 
